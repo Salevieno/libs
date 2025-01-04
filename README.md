@@ -1,2 +1,5 @@
-# template-window-java
-Template for creating applications with visuals in Java. Uses a JPanel inside of a JFrame to display drawings.
+Libraries that I've created to make java development easier.
+Especifically, for:
+ - Drawing things on a JPanel (which is inside a JFrame)
+ - Drawing charts
+ - General utilities
